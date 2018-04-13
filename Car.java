@@ -8,7 +8,7 @@
 //Time to stay / leave time from destination
 //Will the car need a station? If not, delete this object
 //Stores stats.
-
+// This is old stuff 
 
 // Time is in units of Minutes
 // home and desitnation int meanings
